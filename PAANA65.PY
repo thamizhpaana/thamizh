@@ -4,4 +4,4 @@ num=list(map(int,input().split()))
 if b1 in num:
   print("yes")
 else:
-  print("no"
+  print("no")
