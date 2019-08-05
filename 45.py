@@ -1,5 +1,4 @@
-    
 import sys, string
-mn= input()
-oL = list(map(int,input().split()))
-print(sum(oL) // len(oL))
+ade = input()
+adi = list(map(int,input().split()))
+print(sum(adi) // len(adi))
