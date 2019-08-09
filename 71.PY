@@ -1,8 +1,4 @@
-
 #P
-inter=input()
-d=inter[::-1]
-if(inter==d):
-    print("yes")
-else:
-    print("no")
+a,b=map(str,input().split())
+for i in range(0,int(b)):
+    print(a[i],end="")
