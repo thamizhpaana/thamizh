@@ -1,3 +1,4 @@
+#PA
 import sys, string, math
 # program for dividing array to make average equal
 
