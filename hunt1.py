@@ -1,5 +1,4 @@
-#PAANA
-n1 = int(input())
+n9 = int(input())
 lst = [x for x in input().split()]
 lst1 = []
 for i in lst:
